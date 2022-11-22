@@ -1,6 +1,7 @@
 # Copyright (c)  2022  Xiaomi Corporation (authors: Liyong Guo)
 
-from typing import List, Literal, Union
+from typing import List, Union
+from typing_extensions import Literal
 
 import torch
 import k2
